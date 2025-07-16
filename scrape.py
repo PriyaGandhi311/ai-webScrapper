@@ -30,5 +30,5 @@ def clean_body_content(body_content):
     cleaned_content = "/n".join(line.strip() for line in cleaned_content.splitlines() if line.strip())
     return cleaned_content
 
-def split_content_into_chunks(content, max_length="6000"):
+def split_content_into_chunks(content, max_length):
     return [content[i:i + max_length] for i in range(0, len(content), max_length)]
