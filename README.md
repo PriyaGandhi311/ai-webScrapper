@@ -2,7 +2,7 @@
 Scrape and parse any webpage using AI — quickly extract meaningful insights from HTML content with LLM-powered analysis.
 
 ### Demo Snapshot
-<img width="617" height="310" alt="image" src="https://github.com/user-attachments/assets/41110d1f-abfc-41f3-978d-2dd5d664581c" />
+<img width="467" height="310" alt="image" src="https://github.com/user-attachments/assets/41110d1f-abfc-41f3-978d-2dd5d664581c" />
 
 ### Features
 - LLM-powered parsing using OpenAI
